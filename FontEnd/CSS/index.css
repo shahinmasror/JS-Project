@@ -1,0 +1,14 @@
+#product-container{
+    padding: 25px 0;
+
+}
+#product-container  h2{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#product-section{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 20px;
+}
